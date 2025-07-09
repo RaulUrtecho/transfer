@@ -17,6 +17,7 @@
 -  Separación básica entre lógica y presentación (Clean Architecture básica)
 
 ## Structura 
+```bash
 lib
 │   main.dart
 │   
@@ -29,6 +30,7 @@ lib
 └───ui
         app.dart
         app_controller.dart
+```
 
 ## Cómo correr la app
 1. Clona el repositorio
